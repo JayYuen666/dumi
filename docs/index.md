@@ -1,7 +1,7 @@
 ---
-title: A static site based on dumi
+title: JayYuen的个人网站
 hero:
-  title: Site
+  title: JayYuen
   description: A static site based on dumi
   actions:
     - text: Hello
@@ -19,5 +19,3 @@ features:
     emoji: 🚀
     description: Put ! description here
 ---
-
-jayyuen
